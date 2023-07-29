@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-nandan&label=Profile%20views&color=0e75b6&style=flat" alt="coding-nandan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coding-nandan" alt="coding-nandan" /></a> </p>
-
 - 🌱 I’m currently learning **C++ and javascript**
 
 - 📫 How to reach me **codingmachine16@gmail.com**
+
+- ⚡ Fun fact **Up until it saw me, the cooler believed it was the coolest.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-nandan&show_icons=true&locale=en" alt="coding-nandan" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-nandan&" alt="coding-nandan" /></p>
